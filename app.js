@@ -31,6 +31,7 @@ var apos = require('apostrophe')({
     'ncc-category': {},
     'ncc-subcategory': {},
     'ncc-products-pages' : {},
-    'ncc-cart': {}
+    'ncc-cart': {},
+    'ncc-payments': {}
   }
 });
